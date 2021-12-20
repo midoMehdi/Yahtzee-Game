@@ -1,0 +1,10 @@
+﻿  dice.cpp
+  figure.cpp
+  grille.cpp
+  lancer.cpp
+  player.cpp
+C:\Users\elbme\source\repos\Yahtzee\Yahtzee\player.cpp(62,8): warning C4551: liste d'arguments manquante dans l'appel de fonction
+  sortFunctor.cpp
+  Source.cpp
+  Génération de code en cours...
+  Yahtzee.vcxproj -> C:\Users\elbme\source\repos\Yahtzee\x64\Debug\Yahtzee.exe

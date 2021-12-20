@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\elbme\source\repos\Yahtzee\Yahtzee\Source.cpp(525,16): warning C4018: '<' : incompatibilité signed/unsigned
+Debug\dice.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+Debug\figure.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+Debug\grille.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+Debug\lancer.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+Debug\player.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+Debug\sortFunctor.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+Debug\Source.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+  Yahtzee.vcxproj -> C:\Users\elbme\source\repos\Yahtzee\Debug\Yahtzee.exe
